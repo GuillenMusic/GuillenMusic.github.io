@@ -105,3 +105,20 @@ footer {
   display: block;
   margin: 1.5rem auto;
 }
+
+a {
+  color: var(--green-main);
+}
+
+a:hover {
+  color: var(--green-dark);
+}
+
+footer {
+  background-color: var(--green-dark);
+  color: white;
+  text-align: center;
+  padding: 1.5rem;
+  margin-top: 4rem;
+}
+
