@@ -1,3 +1,10 @@
+:root {
+  --green-dark: #1f3d2b;   /* headers, footer */
+  --green-main: #2f6f4e;   /* nav, accents */
+  --green-light: #e6f2ec;  /* section backgrounds */
+  --text-dark: #222;
+}
+
 body {
   margin: 0;
   font-family: "Helvetica Neue", Arial, sans-serif;
