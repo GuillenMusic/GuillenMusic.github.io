@@ -1,0 +1,59 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+  color: #222;
+  background-color: #f9f9f9;
+}
+
+.hero {
+  background: #1e1e1e;
+  color: white;
+  text-align: center;
+  padding: 4rem 1rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+nav {
+  background: #333;
+  padding: 0.75rem;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.section {
+  max-width: 800px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+.section h2 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+
+.service {
+  margin-top: 1.5rem;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem;
+  background: #eee;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+}
